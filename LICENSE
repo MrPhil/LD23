@@ -1,6 +1,28 @@
+This project is based on code from Chevy Ray Johnston keynote address for Ludum Dare 23, which is licensed with:
+	 /**
+	 * ========================================================
+	 * LUDUM DARE 23 KEYNOTE GAMES
+	 * 2012 (c) Chevy Ray Johnston
+	 * ========================================================
+	 * 
+	 * These games are made with FlashPunk, a game engine which
+	 * is freely available for you to use! Check it out at:
+	 * 
+	 * flashpunk.net
+	 * flashpunk.net/learn
+	 * flashpunk.net/forums
+	 * 
+	 * You are totally free to use any of the code in this in
+	 * your games! So enjoy :) hope some of it is helpful!
+	
+	 */
+----
+
+The portions of code written by me are licensed under
+
 MIT License
 
-Copyright (c) 2017 Philip 'MrPhil' Ludington
+Copyright (c) 2017 Philip Ludington
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +41,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+All other Intetellectual Property 
+
+Copyright 2012 Philip Ludington. All Rights Reserved
+mrphil@mrphilgames.com
+www.MrPhilGames.com
